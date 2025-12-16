@@ -18,4 +18,4 @@ Aspiring full-stack web developer, passionate and self-motivated, eager to turn 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-<img align="right" alt="BMO coding" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" alt="Coding dog" width="250" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
