@@ -1,10 +1,9 @@
-# Hi there I'm Chris10n
+# Hi there 👋 I'm Chris10n
 
 Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. I aim to stay at the forefront of web development, always seeking new projects and learning opportunities to enhance my skills. My goal is to build modern, responsive websites and applications that meet my clients' needs through innovative solutions and teamwork.
 
-
-<!-- Replaced BMO GIF with cat GIF and reduced width to 250px to prevent overflow -->
-<img align="right" alt="Coding cat" width="250" src="/images/image.png">
+<!-- Replaced cat image with coding dog GIF -->
+<img align="right" alt="Coding dog" width="250" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ## Languages and Tools
 
