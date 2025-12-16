@@ -20,3 +20,5 @@ Aspiring full-stack web developer, passionate and self-motivated, eager to turn 
 
 <!-- Replaced cat image with coding dog GIF -->
 <img align="right" alt="Coding dog" width="250" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
+<img align="right" alt="BMO coding" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
