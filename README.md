@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B6F47,D2B48C,F5DEB3&height=200&section=header&text=Hi,%20I'm%20Christine%20Praise%20Laput&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=55&descAlign=50&fontAlign=50&stroke=000000&strokeWidth=2" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B6F47,D2B48C,F5DEB3&height=200&section=header&text=Hi,%20I'm%20Christine%20Praise%20Laput&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55&descAlign=50&fontAlign=50&stroke=000000&strokeWidth=2" alt="Header"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B6F47&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B6F47&center=true&vCenter=true&width=600&lines=Passionate+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
   
 </div>
 
@@ -16,7 +16,7 @@
   
 ### About Me
 
-Aspiring full-stack web developer, passionate and self-motivated, eager to turn ideas into applications. I am continuously learning and exploring new technologies to grow my skills and one day become a permanent full-stack developer. My goal is to build modern, responsive websites and applications that provide real solutions, while embracing teamwork, creativity, and innovation.
+Aspiring web developer, passionate and self-motivated, eager to turn ideas into applications. I am continuously learning and exploring new technologies to grow my skills. My goal is to build modern, responsive websites and applications that provide real solutions, while embracing teamwork, creativity, and innovation.
 
 </div>
 
