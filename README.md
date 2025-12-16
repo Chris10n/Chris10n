@@ -1,4 +1,4 @@
-# Hi there I'm Chris10n
+# Hi I'm Chris10n
 
 Aspiring full-stack web developer, passionate and self-motivated, eager to turn ideas into applications. I am continuously learning and exploring new technologies to grow my skills and one day become a proficient full-stack developer. My goal is to build modern, responsive websites and applications that provide real solutions, while embracing teamwork, creativity, and innovation.
 
