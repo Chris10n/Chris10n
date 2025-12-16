@@ -16,7 +16,7 @@
   
 ### About Me
 
-Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. I aim to stay at the forefront of web development, always seeking new projects and learning opportunities to enhance my skills. My goal is to build modern, responsive websites and applications that meet my clients' needs through innovative solutions and teamwork.
+Aspiring full-stack web developer, passionate and self-motivated, eager to turn ideas into applications. I am continuously learning and exploring new technologies to grow my skills and one day become a permanent full-stack developer. My goal is to build modern, responsive websites and applications that provide real solutions, while embracing teamwork, creativity, and innovation.
 
 </div>
 
