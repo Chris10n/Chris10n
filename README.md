@@ -14,10 +14,8 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ---
 
-## Programming Languages
 
-
-## TECHNOLOGY STACK
+## Technology Stack
 
 <p align="center">
   <sub>LANGUAGES</sub>
