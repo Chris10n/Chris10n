@@ -16,44 +16,48 @@ I combine **web development, UI/UX design, and visual design** to transform idea
 
 ## Programming Languages
 
+
+## TECHNOLOGY STACK
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,java,php,cpp,ts,c" alt="Programming languages" />
+  <sub>LANGUAGES</sub>
 </p>
 
-## Frontend Development
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,cs,cpp&theme=light" />
 </p>
 
-## Backend Development
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,kafka,rabbitmq" alt="Backend technologies" />
+  <sub>FRONTEND DEVELOPMENT</sub>
 </p>
 
-## AI & Machine Learning
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,jupyter,keras,openai" alt="AI and machine learning technologies" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=light" />
 </p>
 
-## Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase,supabase,oracle" alt="Database technologies" />
+  <sub>BACKEND DEVELOPMENT</sub>
 </p>
 
-## Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring&theme=light" />
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,figma,arduino,canva,gitbash,laragon" alt="Development tools" />
-<br>
+  <sub>DATABASES</sub>
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase,redis&theme=light" />
+</p>
 
----
+<p align="center">
+  <sub>TOOLS AND DESIGN</sub>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=4000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=650&lines=Eating+commits+one+by+one;Keep+coding%2C+keep+creating;Every+contribution+counts" alt="Animated Pacman message" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino,docker,linux,canva&theme=light" />
+</p>
 
 ---
 
